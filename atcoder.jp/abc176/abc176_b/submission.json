@@ -1,12 +1,12 @@
 {
-	"id": 16405926,
-	"epoch_second": 1598791150,
+	"id": 16406017,
+	"epoch_second": 1598791413,
 	"problem_id": "abc176_b",
 	"contest_id": "abc176",
 	"user_id": "SomaSekimoto",
 	"language": "Python (3.8.2)",
 	"point": 200,
-	"length": 115,
+	"length": 87,
 	"result": "AC",
-	"execution_time": 57
+	"execution_time": 55
 }
